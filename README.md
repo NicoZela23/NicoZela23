@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Backend Developer | Cloud & DevOps Enthusiast<br>I am a Software Engineer with over 2 years of experience building scalable FullStack products. While my roots are in FullStack development, I have focused my career path on Backend Architecture, Cloud Infrastructure, and DevOps practices.<br><br>I thrive on designing and optimizing high-performance systems that are built to scale. Currently, I am responsible for driving application architecture, managing cloud ecosystems, and leading technical implementations that support rapid product growth.<br><br>Active in tech communities like GDG and AWS UG</p>
+<p align="left"><b>Backend Developer | Cloud & DevOps Enthusiast<b><br>I am a Software Engineer with over 2 years of experience building scalable FullStack products. While my roots are in FullStack development, I have focused my career path on Backend Architecture, Cloud Infrastructure, and DevOps practices.<br><br>I thrive on designing and optimizing high-performance systems that are built to scale. Currently, I am responsible for driving application architecture, managing cloud ecosystems, and leading technical implementations that support rapid product growth.<br><br>Active in tech communities like GDG and AWS UG</p>
 
 ###
 
