@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Tech Stack:</p>
+<p align="left"><b>Tech Stack:</b></p>
 
 ###
 
@@ -42,11 +42,14 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<p align="left"><b>Connect with me:</b></p>
 
 ###
 
 <div align="left">
+  <a href="https://www.instagram.com/uizel3/" target="_blank">
+    <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok" height="35" alt="tiktok logo"  />
+  </a>
   <a href="https://www.instagram.com/uizel3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
