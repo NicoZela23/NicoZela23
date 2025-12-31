@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=true&text=Hi,%20I'm%20Nicolas%20Zelaya&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=c31014"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=true&text=Hi,%20I'm%20Nico&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=c31014"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><b>Backend Developer | Cloud & DevOps Enthusiast</b><br>I am a Software Engineer with over 2 years of experience building scalable FullStack products. While my roots are in FullStack development, I have focused my career path on Backend Architecture, Cloud Infrastructure, and DevOps practices.<br><br>I thrive on designing and optimizing high-performance systems that are built to scale. Currently, I am responsible for driving application architecture, managing cloud ecosystems, and leading technical implementations that support rapid product growth.<br><br>Active in tech communities like GDG and AWS UG</p>
+<p align="left"><b>Backend Developer | Cloud & DevOps</b><br>I am a Software Engineer with over 2 years of experience building scalable products. I have focused my career path on Backend Architecture, Cloud Infrastructure, and DevOps practices.<br><br>I thrive on designing and optimizing high-performance systems that are built to scale. Currently, I am responsible for driving application architecture, managing cloud ecosystems, and leading technical implementations that support rapid product growth.<br><br>Active in tech communities like GDG and AWS UG</p>
 
 ###
 
