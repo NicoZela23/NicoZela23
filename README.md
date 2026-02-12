@@ -64,7 +64,4 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://github.com/NicoZela23/profile-view/blob/output/snake.svg)
-
 ###
