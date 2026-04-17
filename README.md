@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><b>Backend Developer | Cloud & DevOps</b><br>I am a Software Engineer with over 3 years of experience building scalable products. I have focused my career path on Backend Architecture, Cloud Infrastructure, and DevOps practices.<br><br>I thrive on designing and optimizing high-performance systems that are built to scale. Currently, I am responsible for driving application architecture, managing cloud ecosystems, and leading technical implementations that support rapid product growth.<br><br>Active in tech communities like GDG and AWS UG</p>
+<p align="left"><b>Full Stack Engineer | AI & Cloud Infrastructure</b><br>I am a Full Stack Engineer with over 3 years of experience designing scalable backend systems and cloud infrastructure across GCP and AWS. I specialize in API design, microservices, and CI/CD automation, with solid frontend delivery in React and Next.js.<br><br>Lately, I've been focused on building AI-powered products — from conversational AI and RAG pipelines to workflow automation and LLM-integrated internal tools. I'm drawn to the intersection of reliable backend engineering and practical AI, building things that actually work.</p>
 
 ###
 
