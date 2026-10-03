@@ -86,7 +86,10 @@ def request(url, token, body=None):
 def graphql(token, query, **variables):
     _, data = request("https://api.github.com/graphql", token, {"query": query, "variables": variables})
     if data.get("errors"):
-        raise RuntimeError(data["errors"])
+        if not data.get("data"):
+            raise RuntimeError(data["errors"])
+        # partial data: e.g. repos the token can't see come back as null nodes
+        print(f"graphql warnings: {[e.get('message') for e in data['errors']]}")
     return data["data"]
 
 
@@ -116,7 +119,7 @@ def repo_lists(token):
         for key, field, bucket in (("owned", "repositories", owned), ("contrib", "repositoriesContributedTo", contrib)):
             if more[key]:
                 page = user[field]
-                bucket.extend(page["nodes"])
+                bucket.extend(n for n in page["nodes"] if n)  # null = repo hidden from this token
                 more[key] = page["pageInfo"]["hasNextPage"]
                 cursors[key] = page["pageInfo"]["endCursor"]
     contrib = [r for r in contrib if not r["isFork"]]
