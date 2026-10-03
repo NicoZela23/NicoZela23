@@ -60,9 +60,9 @@ text{font-family:ConsolasFallback,Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','C
 <text x="481.0" y="507" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="k">TikTok</tspan>: <tspan class="d">......................................</tspan> <tspan class="v">@nico_zela1</tspan></text>
 
 <text x="481.0" y="547" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="d">- </tspan><tspan class="u">GitHub Stats</tspan> <tspan class="d">───────────────────────────────────────────</tspan></text>
-<text x="481.0" y="567" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="k">Repos</tspan>: <tspan class="d">....</tspan> <tspan class="v">22</tspan> {<tspan class="k">Contributed</tspan>: <tspan class="v">4</tspan>} | <tspan class="k">Stars</tspan>: <tspan class="d">...............</tspan> <tspan class="v">2</tspan></text>
-<text x="481.0" y="587" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="k">Commits</tspan>: <tspan class="d">..................</tspan> <tspan class="v">399</tspan> | <tspan class="k">PRs</tspan>: <tspan class="d">................</tspan> <tspan class="v">97</tspan></text>
-<text x="481.0" y="607" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="k">Lines of Code</tspan>: <tspan class="d">..........</tspan> <tspan class="v">281,672</tspan> ( <tspan class="add">411,388++</tspan>, <tspan class="rm">129,716--</tspan> )</text>
+<text x="481.0" y="567" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="k">Repos</tspan>: <tspan class="d">....</tspan> <tspan class="v">22</tspan> {<tspan class="k">Contributed</tspan>: <tspan class="v">1</tspan>} | <tspan class="k">Stars</tspan>: <tspan class="d">...............</tspan> <tspan class="v">2</tspan></text>
+<text x="481.0" y="587" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="k">Commits</tspan>: <tspan class="d">..................</tspan> <tspan class="v">401</tspan> | <tspan class="k">PRs</tspan>: <tspan class="d">................</tspan> <tspan class="v">97</tspan></text>
+<text x="481.0" y="607" textLength="522.0" lengthAdjust="spacingAndGlyphs"><tspan class="k">Lines of Code</tspan>: <tspan class="d">...........</tspan> <tspan class="v">156,720</tspan> ( <tspan class="add">181,283++</tspan>, <tspan class="rm">24,563--</tspan> )</text>
 <text x="22.0" y="647" textLength="135.0" lengthAdjust="spacingAndGlyphs"><tspan class="u">nico@zelaya</tspan>:<tspan class="p">~</tspan>$ </text>
 <rect class="cursor" x="157.0" y="633" width="9" height="17" fill="#24292f"/>
 </svg>
