@@ -29,13 +29,6 @@ b6c2e41                   ci: Docker + Jenkins, release cycle 2 days -> 3 hours
   <img src="https://skillicons.dev/icons?i=ts,js,py,go,nodejs,nestjs,nextjs,react,tailwind,fastapi,postgres,mongodb,supabase,firebase,gcp,aws,vercel,docker,githubactions,jenkins,linux,bash&perline=11" alt="TypeScript, JavaScript, Python, Go, Node.js, NestJS, Next.js, React, Tailwind, FastAPI, PostgreSQL, MongoDB, Supabase, Firebase, GCP, AWS, Vercel, Docker, GitHub Actions, Jenkins, Linux, Bash" />
 </a>
 
-### `$ git log --graph`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoZela23/NicoZela23/output/snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/NicoZela23/NicoZela23/output/snake-light.svg" width="100%">
-</picture>
-
 ### `$ ./contact.sh`
 
 <p>
